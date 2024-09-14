@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Reki Atlas Clawthorne
 
-# Your Github username
+# HauntingWhisper
 
 # List the things you added for points
